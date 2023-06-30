@@ -1,0 +1,4 @@
+/node_modules //carpetas
+/src
+.env  //archivos
+/video
